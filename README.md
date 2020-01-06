@@ -1,2 +1,2 @@
-# ammi-reinforcement-learning-2020
-Reinforcement Learning at AMMI 2020
+# Reinforcement Learning Tutorials for the African Masters of Machine Intelligence
+
