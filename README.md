@@ -82,3 +82,5 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 ## Taxonomy of RL algorithms 
 
 ![](https://spinningup.openai.com/en/latest/_images/rl_algorithms_9_15.svg)
+
+![](0 RL - R.assets/Full+and+Sample+(One-Step)+Backups.jpg)
