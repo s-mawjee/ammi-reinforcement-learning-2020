@@ -63,7 +63,7 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 
 ## Articles
 
-* [:happy:](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/) Free code camp - ( 4/5) - *good overview* 
+* [(",)](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/) Free code camp - ( 4/5) - *good overview* 
 * [(",)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287) Medium, RL algorithm review (3/5)
 * [(",)](https://medium.com/@SmartLabAI/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc) Medium, RL overview (3/5) 
 * [(",)](https://medium.com/@jonathan_hui/rl-basics-algorithms-and-terms-ae98314851d7) Summary of terminology (3.5/5)
