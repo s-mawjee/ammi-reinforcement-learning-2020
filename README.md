@@ -5,7 +5,8 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 ## Dynamic Programming 
 [Lec 1: From basic concepts to deep Q-networks](https://drive.google.com/file/d/1nV5uRjZ3tpLe9mxBP9-uEsSSnmjCuuAq/view)
 
-[Ex 1 solutions:]()
+[Ex 1:](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/Dynamic_Programming.ipynb)
+[Ex 1 (solutions):](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/Dynamic_Programming_Solutions.ipynb)
 
 **Extra**:
 
