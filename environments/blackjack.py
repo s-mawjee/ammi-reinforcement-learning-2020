@@ -2,8 +2,10 @@ import gym
 from gym import spaces
 from gym.utils import seeding
 
+
 def cmp(a, b):
     return int((a > b)) - int((a < b))
+
 
 # 1 = Ace, 2-10 = Number cards, Jack/Queen/King = 10
 deck = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
@@ -23,7 +25,7 @@ def usable_ace(hand):  # Does this hand have a usable ace?
 
 def sum_hand(hand):  # Return current hand total
     if usable_ace(hand):
-            return sum(hand) + 10
+        return sum(hand) + 10
     return sum(hand)
 
 
@@ -62,8 +64,8 @@ class BlackjackEnv(gym.Env):
     This environment corresponds to the version of the blackjack problem
     described in Example 5.1 in Reinforcement Learning: An Introduction
     by Sutton and Barto (1998).
-    https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html
     """
+
     def __init__(self, natural=False):
         self.action_space = spaces.Discrete(2)
         self.observation_space = spaces.Tuple((
@@ -76,8 +78,7 @@ class BlackjackEnv(gym.Env):
         # Ref: http://www.bicyclecards.com/how-to-play/blackjack/
         self.natural = natural
         # Start the first game
-        self._reset()        # Number of 
-        self.nA = 2
+        self._reset()
 
     def reset(self):
         return self._reset()
