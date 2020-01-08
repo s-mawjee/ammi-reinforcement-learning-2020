@@ -19,7 +19,7 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - [Tutorial 2](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/MonteCarlo_TD.ipynb)
 
 # Questions 
-- To communicate directly with the tutors, chat with us here https://riot.im/app/#/room/!PqHhcrXwHpufuXXcws:matrix.org
+- To communicate directly with the tutors, chat to us here: https://www.tinyurl.com/chat-to-us
 - To put a question forward to the tutors and your peers, open an **'issue'** with the label **'question'**  [example-clickMe](https://tinyurl.com/issues-questions)
 
 
