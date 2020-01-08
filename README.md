@@ -5,8 +5,8 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 ## Dynamic Programming 
 [Lec 1: From basic concepts to deep Q-networks](https://drive.google.com/file/d/1nV5uRjZ3tpLe9mxBP9-uEsSSnmjCuuAq/view)
 
-[Ex 1:](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/Dynamic_Programming.ipynb)
-[Ex 1 (solutions):](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/Dynamic_Programming_Solutions.ipynb)
+[Tutorial 1:](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/Dynamic_Programming.ipynb)
+[Tutorial 1 (solutions):](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/Dynamic_Programming_Solutions.ipynb)
 
 **Extra**:
 
@@ -15,6 +15,7 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - Dynamic Programming [lecture video](https://youtu.be/Nd1-UUMVfz4)
 
 ## Monte Carlo and TD learning
+[Tutorial 2:](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/MonteCarlo_TD.ipynb)
 
 # Questions 
 - To communicate directly with the tutors, chat with us here https://riot.im/app/#/room/!PqHhcrXwHpufuXXcws:matrix.org
