@@ -85,4 +85,4 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 
 ![](https://i.gyazo.com/2518e3649a399d299297cccf46abf3ee.png)
 
-![](0 RL - R.assets/Full+and+Sample+(One-Step)+Backups.jpg)
+![](https://i.gyazo.com/14471967e6fdd130e49657e40cf640f5.png)
