@@ -31,6 +31,8 @@ To update your local repository (repo) without losing your personal changes to t
 - To put a question forward to the tutors and your peers, open an **'issue'** with the label **'question'**  [example-clickMe](https://tinyurl.com/issues-questions)
 
 
+***
+***
 # Addtional general resources 
 
 ## Book
