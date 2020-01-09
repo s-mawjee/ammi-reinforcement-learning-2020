@@ -27,7 +27,7 @@ To update your local repository (repo) without losing your personal changes to t
 `git pull --rebase --autostash`  
 
 # Questions 
-- To communicate directly with the tutors, chat to us here: https://www.tinyurl.com/chat-to-us
+- To communicate directly with the tutors, chat to us here: https://riot.im/app/#/room/!PqHhcrXwHpufuXXcws:matrix.org
 - To put a question forward to the tutors and your peers, open an **'issue'** with the label **'question'**  [example-clickMe](https://tinyurl.com/issues-questions)
 
 
