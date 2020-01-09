@@ -1,0 +1,4 @@
+[submodule "ammi-reinforcement-learning-2020-solutions"]
+	path = ammi-reinforcement-learning-2020-solutions
+	url = https://github.com/s-mawjee/ammi-reinforcement-learning-2020-solutions.git
+
