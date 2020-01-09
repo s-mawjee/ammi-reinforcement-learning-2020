@@ -18,6 +18,11 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 
 - [Tutorial 2](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/MonteCarlo_TD.ipynb)
 
+# Update local repo
+To update your local repository (repo) without losing your personal changes to the files use... 
+
+`git pull --rebase --autostash`  
+
 # Questions 
 - To communicate directly with the tutors, chat to us here: https://www.tinyurl.com/chat-to-us
 - To put a question forward to the tutors and your peers, open an **'issue'** with the label **'question'**  [example-clickMe](https://tinyurl.com/issues-questions)
