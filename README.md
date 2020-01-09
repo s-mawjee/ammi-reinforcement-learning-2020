@@ -71,7 +71,6 @@ To update your local repository (repo) without losing your personal changes to t
 
 * [(^_^)](https://www.youtube.com/results?search_query=reinforcement+learning+playlist) YouTube playlist ( /5)
 
-***
 
 ## Articles
 
@@ -88,8 +87,6 @@ To update your local repository (repo) without losing your personal changes to t
 ## Survey 
 
 * [(",)](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html) overviews of contemporary RL 
-
-***
 
 ## Taxonomy of RL algorithms 
 
