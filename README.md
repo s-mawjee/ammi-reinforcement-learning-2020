@@ -18,6 +18,7 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 ## Monte Carlo and TD learning
 
 - [Tutorial 2](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/MonteCarlo_TD.ipynb)
+- [Tutorial 2 (solutions)](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/MonteCarlo_TD_solution.ipynb)
 
 # (git) Update local repo
 
