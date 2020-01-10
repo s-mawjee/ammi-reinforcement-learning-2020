@@ -19,32 +19,18 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 
 - [Tutorial 2](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/MonteCarlo_TD.ipynb)
 
-<<<<<<< HEAD
+# (git) Update local repo
+
+To update your local repository (repo) without losing your personal changes to the files use...
+
+`git pull --rebase --autostash`
+
 # Questions
-=======
-***
-***
-
-# Update local repo
-To update your local repository (repo) without losing your personal changes to the files use... 
-
-`git pull --rebase --autostash`  
-
-# Questions 
-- To communicate directly with the tutors, chat to us here: https://riot.im/app/#/room/!PqHhcrXwHpufuXXcws:matrix.org
-- To put a question forward to the tutors and your peers, open an **'issue'** with the label **'question'**  [example-clickMe](https://tinyurl.com/issues-questions)
->>>>>>> 058852490f2cdced52517ca8211117ab6d93dd14
 
 - To communicate directly with the tutors, chat to us here: https://www.tinyurl.com/chat-to-us
 - To put a question forward to the tutors and your peers, open an **'issue'** with the label **'question'** [example-clickMe](https://tinyurl.com/issues-questions)
 
-<<<<<<< HEAD
 # Addtional general resources
-=======
-***
-***
-# Addtional general resources 
->>>>>>> 058852490f2cdced52517ca8211117ab6d93dd14
 
 ## Book
 
@@ -84,11 +70,6 @@ To update your local repository (repo) without losing your personal changes to t
 
 - [(^\_^)](https://www.youtube.com/results?search_query=reinforcement+learning+playlist) YouTube playlist ( /5)
 
-<<<<<<< HEAD
----
-=======
->>>>>>> 058852490f2cdced52517ca8211117ab6d93dd14
-
 ## Articles
 
 - [(",)](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/) Free code camp - ( 4/5) - _good overview_
@@ -105,13 +86,7 @@ To update your local repository (repo) without losing your personal changes to t
 
 - [(",)](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html) overviews of contemporary RL
 
-<<<<<<< HEAD
----
-
 ## Taxonomy of RL algorithms
-=======
-## Taxonomy of RL algorithms 
->>>>>>> 058852490f2cdced52517ca8211117ab6d93dd14
 
 ![](https://i.gyazo.com/2518e3649a399d299297cccf46abf3ee.png)
 
