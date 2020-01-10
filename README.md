@@ -49,7 +49,7 @@ To update your local repository (repo) without losing your personal changes to t
     - [Chap 1 - 13, Python](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ( /5)
     - [Chap 1 - 13, Lisp](http://incompleteideas.net/book/code/code2nd.html) ( /5)
 
-- [('^\_\_^')](https://arxiv.org/pdf/1811.12560.pdf) An Introduction to Deep Reinforcement Learning by **Vincent Francois-Lavet** (/5)
+- [('^\_\_^')](https://arxiv.org/pdf/1811.12560.pdf) An Introduction to Deep Reinforcement Learning(/5)
 
 ## Course
 
