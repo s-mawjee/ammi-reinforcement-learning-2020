@@ -20,6 +20,10 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 - [Tutorial 2](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/MonteCarlo_TD.ipynb)
 - [Tutorial 2 (solutions)](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/MonteCarlo_TD_solution.ipynb)
 
+## Policy Gradient
+
+- [Tutorial 3](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/Policy_Gradients_REINFORCE.ipynb)
+
 # (git) Update local repo
 
 To update your local repository (repo) without losing your personal changes to the files use...
