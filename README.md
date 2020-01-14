@@ -23,6 +23,7 @@ This repo includes lecture slides, notebooks and other material for the RL week 
 ## Policy Gradient
 
 - [Tutorial 3](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/Policy_Gradients_REINFORCE.ipynb)
+- [Tutorial 4](https://github.com/s-mawjee/ammi-reinforcement-learning-2020/blob/master/Policy_Gradients_REINFORCE_learned_baseline.ipynb)
 
 # (git) Update local repo
 
